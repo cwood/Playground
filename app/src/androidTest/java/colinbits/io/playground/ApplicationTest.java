@@ -1,4 +1,4 @@
-package colinbits.io.gittr;
+package colinbits.io.playground;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
